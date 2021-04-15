@@ -1,0 +1,4 @@
+# Project exclude paths
+/boot-dubbo-api/target/
+/boot-dubbo-cosumer/target/
+/boot-dubbo-provider/target/
